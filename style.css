@@ -95,6 +95,10 @@ label{
     float: right;
 }
 
+.footer{
+    text-align: center;
+}
+
 .card-cvv input{
     width: 2rem;
     text-align: center;
